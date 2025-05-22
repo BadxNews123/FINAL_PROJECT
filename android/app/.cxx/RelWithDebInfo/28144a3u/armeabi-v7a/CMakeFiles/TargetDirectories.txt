@@ -1,0 +1,2 @@
+/Users/aaryan/Developer/student_entry_exit/android/app/.cxx/RelWithDebInfo/28144a3u/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/aaryan/Developer/student_entry_exit/android/app/.cxx/RelWithDebInfo/28144a3u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
